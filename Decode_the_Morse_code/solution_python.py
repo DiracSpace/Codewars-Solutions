@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 import re
 def decodeMorse(data):
     decoded_msg = ''
