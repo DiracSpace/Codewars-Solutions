@@ -8,5 +8,5 @@ This is my repository of solutions for Codewar challenges for online sharing and
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiracSpace&theme=vue-dark" />
 </a>
