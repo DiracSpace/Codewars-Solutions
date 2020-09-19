@@ -12,5 +12,5 @@ Este es mi repositorio de soluciones para los desafíos de Codewar para comparti
 # Top languages that I use - Los lenguajes más usados por mi
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiracSpace&theme=vue-dark&langs_count=12&layout=compact&hide=html,kotlin,c-sharp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiracSpace&theme=vue-dark&langs_count=12&layout=compact&hide=html,kotlin,csharp" />
 </a>
