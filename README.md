@@ -5,4 +5,10 @@ This is my repository of solutions for Codewar challenges for online sharing and
   <img src="https://www.codewars.com/users/DiracSpace/badges/large"></img>
  </p>
 
-[![stats](https://github-readme-stats.vercel.app/api?username=DiracSpace)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  [![stats](https://github-readme-stats.vercel.app/api?username=DiracSpace&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiracSpace)](https://github.com/anuraghazra/github-readme-stats)
+</p>
