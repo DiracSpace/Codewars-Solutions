@@ -5,6 +5,8 @@ This is my repository of solutions for Codewar challenges for online sharing and
   <img src="https://www.codewars.com/users/DiracSpace/badges/large"></img>
  </p>
 
-<p align="center">
-  [![stats](https://github-readme-stats.vercel.app/api?username=DiracSpace&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+</a>
