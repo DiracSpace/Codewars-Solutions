@@ -1,8 +1,6 @@
-URL - https://www.codewars.com/kata/54b724efac3d5402db00065e
+# [Deocde the Morse Code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
 
-Part 1/3
-
-Explanation:
+# Explanation
 In this kata you have to write a simple Morse code decoder. While the Morse code is now mostly superseded by voice and digital data communication channels, it still has its use in some applications
 around the world. The Morse code encodes every character as a sequence of "dots" and "dashes". For example, the letter A is coded as ·−, letter Q is coded as −−·−, and digit 1 is coded as ·−−−−.
 The Morse code is case-insensitive, traditionally capital letters are used. When the message is written in Morse code, a single space is used to separate the character codes and 3 spaces are used
@@ -15,11 +13,7 @@ that is coded as ···−−−···. These special codes are treated as singl
 
 Your task is to implement a function that would take the morse code as input and return a decoded human-readable string.
 
-Example:
-decodeMorse('.... . -.--   .--- ..- -.. .')
-#should return "HEY JUDE"
-
-Explicacion:
+# Explicacion
 En este kata tienes que escribir un decodificador de código Morse simple. Si bien el código Morse ahora es reemplazado principalmente por canales de comunicación de voz y datos digitales, todavía se
 usa en algunas aplicaciones alrededor del mundo. El código Morse codifica cada carácter como una secuencia de "puntos" y "guiones". Por ejemplo, la letra A se codifica como · -, la letra Q se codifica
 como −− · - y el dígito 1 se codifica como · −−−−. El código Morse no distingue entre mayúsculas y minúsculas, tradicionalmente se utilizan letras mayúsculas. Cuando el mensaje está escrito en código Morse,
@@ -32,3 +26,7 @@ Además de letras, dígitos y algunos signos de puntuación, existen algunos có
 independientes.
 
 Su tarea es implementar una función que tome el código morse como entrada y devuelva una cadena decodificada legible por humanos.
+
+
+# Examples - Ejemplos
+`decodeMorse('.... . -.--   .--- ..- -.. .') -> return "HEY JUDE"`
