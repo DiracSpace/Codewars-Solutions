@@ -1,0 +1,1 @@
+public static int CountSheeps(bool[] sheeps) => sheeps.Count(sheep => sheep);
